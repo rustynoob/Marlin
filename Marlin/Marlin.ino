@@ -21,7 +21,7 @@
  */
 
 /**
- * About Marlin
++- * About Marlin
  *
  * This firmware is a mashup between Sprinter and grbl.
  *  - https://github.com/kliment/Sprinter
